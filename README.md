@@ -1,4 +1,6 @@
 # BI_Group_20
+Business Intelligence project for E-commerce
+
 Project Structure:
 - BI_Dashboard: Power BI bpip and pdf
 - BI_dataset: source dataset used by etl pipeline
